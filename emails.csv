@@ -1,0 +1,11 @@
+text,label
+"Congratulations! You won a free iPhone",spam
+"Claim your lottery prize now",spam
+"Urgent! Your bank account is blocked",spam
+"Click here to win money",spam
+"Meeting scheduled at 5 PM",ham
+"Please submit the assignment tomorrow",ham
+"Let's have lunch today",ham
+"Project discussion meeting",ham
+"Free vacation offer just for you",spam
+"Your invoice is attached",ham
